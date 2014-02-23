@@ -13,11 +13,6 @@ About
 This project is a kindergarten management application utilizing [django](https://www.djangoproject.com/) and its admin interface.
 
 
-TODO
-----
-Add functionality to remove kid entries from waitlist and add them to a group.
-
-
 Security
 ----
 Please make sure to adapt your settings.py by creating your own SECRET_KEY and disabling the DEBUG flags.
